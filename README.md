@@ -1,6 +1,6 @@
 # Web-Dev-Learning
 
-This repository shows my coding learning journey.
+This repository shows my website coding learning journey.
 
 ## Lessons
 - Lesson 1: Learned what is HTML & basics of HTML
