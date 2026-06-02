@@ -3,11 +3,12 @@
 This repository shows my coding learning journey.
 
 ## Lessons
-- Lesson 1: Basic HTML structure
-- Lesson 2: More HTML practice
-- Lesson 3: Website exercises
+- Lesson 1: Learned what is HTML & basics of HTML
+- Lesson 2: Learned what is CSS & basics of CSS
+- Lesson 3: Learned about hovers, transitions, shadows
+- Lesson 4: Learned about chrome DevTools & CSS box model
 
 ## Goals
 - Learn HTML, CSS, JavaScript
-- Learn C++
-- Build small games and websites
+- Build interactive web projects and improve problem-solving skills
+- Develop responsive and user-friendly websites
