@@ -1,4 +1,4 @@
-# Coding Portfolio
+# Web-Dev-Learning
 
 This repository shows my coding learning journey.
 
