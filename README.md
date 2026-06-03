@@ -7,6 +7,8 @@ This repository shows my website coding learning journey.
 - Lesson 2: Learned what is CSS & basics of CSS
 - Lesson 3: Learned about hovers, transitions, shadows
 - Lesson 4: Learned about chrome DevTools & CSS box model
+- Lesson 5: Learned about different text styles
+- Lesson 6: Learned about correct HTML structure
 
 ## Goals
 - Learn HTML, CSS, JavaScript
