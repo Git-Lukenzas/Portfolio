@@ -12,7 +12,7 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 - Lesson 4: Learned about chrome DevTools & CSS box model
 - Lesson 5: Learned about different text styles
 - Lesson 6: Learned about correct HTML structure
-- Lesson 7: Learned about images and text boxes. Started a Toutube front page clone project
+- Lesson 7: Learned about images and text boxes. Started a Youtube front page clone project
 
 ## Goals
 - Learn HTML, CSS, JavaScript
