@@ -15,6 +15,7 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 - Lesson 7: Learned about images and text boxes. Started a Youtube front page clone project
 - Lesson 8: Learned about CSS display property
 - Lesson 9: Learned about the div element
+- Lesson 10: Learned about nested layouts technique
 
 ## Goals
 - Learn HTML, CSS, JavaScript
